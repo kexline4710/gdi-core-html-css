@@ -30,20 +30,8 @@ Students will start customizing their portfolio with all sorts of goodies.
 
 Box model? Floating? Columns? What is this sorcery? You've brought people through the core of html and css. Now give them the next steps to be pros. Students will add columns, footers and headers to their portfolios.
 
-## Theme customization
+## Customization
 
-You can change theme colors by changing the theme css to any of the following options:
-```html
-  <link rel="stylesheet" href="css/theme/gdidefault.css" id="theme">
-  <link rel="stylesheet" href="css/theme/gdilight.css" id="theme">
-  <link rel="stylesheet" href="css/theme/gdisunny.css" id="theme">
-  <link rel="stylesheet" href="css/theme/gdicool.css" id="theme">
-```
-You can change the text editor theme by changing the highlight.js css to the following options:
-```html
-  <link rel="stylesheet" href="lib/css/dark.css">
-  <link rel="stylesheet" href="lib/css/light.css">
-```
 You can change transition by changing the reveal transition property in Reveal.initialize
 ```javascript
   Reveal.initialize({
